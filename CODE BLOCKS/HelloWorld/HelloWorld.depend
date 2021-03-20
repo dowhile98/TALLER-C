@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616202947 source:d:\ras unac\taller\ansi c\codigo\code blocks\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
